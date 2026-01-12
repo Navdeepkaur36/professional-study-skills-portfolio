@@ -1,6 +1,6 @@
 # Professional and Study Skills (SQ4003) E-Portfolio
 **Student Name:** Navdeep Kaur
-**Student ID:** 
+**Student ID:** 25343800
 
 ---
 
