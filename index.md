@@ -1,6 +1,6 @@
 # Professional and Study Skills (SQ4003) E-Portfolio
-**Student Name:** [INSERT YOUR NAME]
-**Student ID:** [INSERT YOUR ID]
+**Student Name:** Navdeep Kaur
+**Student ID:** 
 
 ---
 
@@ -75,8 +75,8 @@ The main challenge was moving from a Graphical User Interface (GUI) to the Comma
 ### Personal Analysis & Graduate Attributes
 To understand my position as a future professional, I undertook several diagnostic assessments in Week 10:
 
-* **Belbin Group Roles:** The assessment identified my strengths as a **[INSERT YOUR ROLE, e.g., Shaper/Implementer]**. This awareness allows me to contribute more effectively to teams by focusing on [INSERT STRENGTH, e.g., driving tasks forward] while being mindful of my potential weakness in [INSERT WEAKNESS].
-* **Big Five Personality Test:** My results highlighted [INSERT TRAIT, e.g., High Conscientiousness], which aligns with the graduate attribute of **Self-Management**. Understanding this helps me demonstrate reliability to future employers.
+* **Belbin Group Roles:** The assessment identified my strengths as an **Implementer**. This awareness allows me to contribute more effectively to teams by focusing on my natural ability to turn abstract ideas into practical actions and ensuring tasks are completed efficiently, while being mindful of my potential weakness in **inflexibility when plans change**.
+* **Big Five Personality Test:** My results highlighted **High Conscientiousness**, which aligns with the graduate attribute of **Self-Management**. Understanding this helps me demonstrate reliability, organization, and attention to detail to future employers, proving I can work autonomously to high standards.
 * **SRE (Skills, Relationships, Experience):** Using the SRE model, I mapped my current skills against career requirements. This highlighted a need to build more evidence in data visualization to meet the programme's specifications.
 
 ### Professional Networks
